@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm César Coronel</h1>
+<h1 align="center">Hi there 👋, I'm Hugo Lizarraga</h1>
 <h3 align="center">A backend developer from Perú</h3>
 
 - 🔭 I’m currently working as **a freelancer for several clients and starting to generate content**
